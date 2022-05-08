@@ -1,1 +1,2 @@
 # Neural_Network_Charity_Analysis
+Neural networking is significant in allowing computer programs to recognize patterns and extrapolate them in order solve common problems. This takes part in several fields such as AI, machine learning, and deep learning. The goal here is to create a neural network model that would predict whether or not applicants will be successful if funded by Alphabet Soup. The given dataset includes more than 34,000 organizations where funding has been issued from Alphabet Soup.
